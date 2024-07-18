@@ -18,7 +18,7 @@
 
 
 
-    #region Q_1
+   /* #region Q_1
 
     public interface IShape
     {
@@ -74,9 +74,10 @@
         }
     } 
     #endregion
+   */
     
 
-    /*#region Q_2 
+    #region Q_2 
     using System;
     public interface IAuthenticationService
     {
@@ -127,7 +128,7 @@
     }
 
     #endregion
-    */
+    
 
 
 
